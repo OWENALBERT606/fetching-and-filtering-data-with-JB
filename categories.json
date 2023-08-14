@@ -1,0 +1,32 @@
+
+    [
+        {
+          "id": 1,
+          "title": "Television",
+          "description": "Explore a wide range of high-definition televisions for an immersive viewing experience.",
+          "image": "/images/televison.jpg",
+          "keywords": ["TV", "Smart TV", "LED", "OLED", "4K"]
+        },
+        {
+          "id": 2,
+          "title": "Fridges",
+          "description": "Discover energy-efficient refrigerators to keep your food fresh and organized.",
+          "image": "/images/fridges.jpg",
+          "keywords": ["Refrigerator", "Fridge", "Cooling", "Freezer", "Smart Fridge"]
+        },
+        {
+          "id": 3,
+          "title": "Microwaves",
+          "description": "Effortlessly heat and cook food with our selection of microwaves.",
+          "image": "/images/microwaves.png",
+          "keywords": ["Microwave", "Oven", "Cooking Appliance", "Convection Microwave"]
+        },
+        {
+          "id": 4,
+          "title": "Laundry Machines",
+          "description": "Find efficient and powerful laundry machines to tackle your laundry with ease.",
+          "image": "/images/laundrymachines.png",
+          "keywords": ["Washing Machine", "Laundry", "Washer", "Dryer", "Front-load Washer"]
+        }
+      ]
+      
